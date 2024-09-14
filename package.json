@@ -1,5 +1,12 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.4.10"
-  }
+  "name": "bluebrain",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
