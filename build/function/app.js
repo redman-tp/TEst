@@ -2,11 +2,11 @@ const app = Vue.createApp({
   data() {
     return {
       carousel: [
-        { image: "public/carousel/cs-1.jpg" },
-        { image: "public/carousel/cs-2.jpg" },
-        { image: "public/carousel/cs-3.jpg" },
-        { image: "public/carousel/cs-4.jpg" },
-        { image: "public/carousel/cs-5.jpg" },
+        { image: "resources/carousel/cs-1.jpg" },
+        { image: "resources/carousel/cs-2.jpg" },
+        { image: "resources/carousel/cs-3.jpg" },
+        { image: "resources/carousel/cs-4.jpg" },
+        { image: "resources/carousel/cs-5.jpg" },
       ],
       companyhighlights: [
         {
